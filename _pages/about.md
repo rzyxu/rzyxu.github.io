@@ -17,42 +17,59 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+<!-- Hi there!!👋 I am Zhiyuan Xu, a sophomore student majoring in Computer Science at [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/). Currently, I am exploring my research interests in computer networks and artificial intelligence. I am a research assistant at [Computer Network Information Center, Chinese Academy of Sciences (CNIC, CAS)](http://www.cnic.cas.cn/), supervised by [Prof. Gaogang Xie](https://cnic.cas.cn/rcdw/yjy/202309/t20230919_6890324.html) and [Prof. Xinyi Zhang](https://ieeexplore.ieee.org/author/37088445633). I am also a research intern at [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](http://www.ict.ac.cn/), supervised by [Prof. Shuang Yang](https://vipl.ict.ac.cn/people/syang/). -->
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Hi there!!👋 I'm Zhiyuan Xu, a sophomore student majoring in Computer Science at [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/). My research interests lie in computer networks and artificial intelligence, where I'm actively exploring and delving deeper. Currently, I am a research assistant at [Computer Network Information Center, Chinese Academy of Sciences (CNIC, CAS)](http://www.cnic.cas.cn/), advised by [Prof. Gaogang Xie](https://cnic.cas.cn/rcdw/yjy/202309/t20230919_6890324.html) and [Prof. Xinyi Zhang](https://ieeexplore.ieee.org/author/37088445633). Additionally, I'm also contributing as a research intern at [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](http://www.ict.ac.cn/), where I'm fortunate to work under the guidance of [Prof. Shuang Yang](https://vipl.ict.ac.cn/people/syang/).
+
+Before that, I developed a strong interest in competitive programming and computer science during my (junior) high school years. I have participated in various programming contests, such as National Olympiad in Informatics in Provinces (NOIP), and am an active participant in International Collegiate Programming Contest (ICPC) and China Collegiate Programming Contest (CCPC) currently.
+
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.04*: &nbsp;🎉🎉 One paper got accepted to APNET'24 (SIGCOMM Side Event)
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- *\* indicates equal contribution* -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNET 2024</div><img src='images/2024apnet0.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**TAR: Traffic Adaptive IPv6 Routing Lookup Scheme**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Xinyi Zhang, **Zhiyuan Xu**, Huaiyi Zhao, Yanbiao Li, Gaogang Xie
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://github.com) \| [**Slides**](https://github.com) 
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2023.12*: 🧑‍🎓National Scholarship (Top 1%)
+- *2023.10*: 🧑‍🎓First Class Academic Scholarship of UCAS (Top 5%)
+- *2022.11*: 🥇Gold Medal in the 2022 CCPC, Guangzhou Site
+- *2024.03*: 🥈Silver Medal in the 2023 CCPC Finals
+- *2023.11*: 🥇First Prize of Beijing in the 2023 CUMCM
+- *2023.12*: 🥈Silver Medal in the 2023 ICPC Asia Jinan Regional Contest
+- *2018.12*: 🥇First Prize (Senior Group) in the 24th National Olympiad in Informatics in Provinces (NOIP2018)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - Present*, Bachelor of Computer Science and Technology
+  - University of Chinese Academy of Sciences
+  - GPA: 3.99/4.00, Rank: 1/80
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Experience
+- *2023.07 - 2024.01*, **Research Assistant**
+  - Advisor: [Prof. Gaogang Xie](https://cnic.cas.cn/rcdw/yjy/202309/t20230919_6890324.html) \| Computer Network Information Center, CAS
+  - Designed and implemented novel algorithms for traffic routing and forwarding.
+  - One paper accepted by APNet'24 (SIGCOMM Side Event).
+- *2023.10 - Present*, **Research Intern**
+  - Advisor: [Prof. Shuang Yang](https://vipl.ict.ac.cn/people/syang/) \| [VIPL](https://vipl.ict.ac.cn/), Institute of Computing Technology, CAS
+  - Developed automated pipeline for large-scale dataset collecting for audio-visual speech recognition.
+- *Spring 2024*, **Teaching Assistant**
+  - *Introduction to Computer Science*
+  - Instructor: [Prof. Zhiwei Xu](https://novel.ict.ac.cn/zxu/), [Prof. Jialin Zhang](http://www.ict.ac.cn/sourcedb/cn/jssrck/201209/t20120913_3643855.html)
+  - Held weekly office hours, graded assignments, and assisted in designing course materials.
