@@ -19,11 +19,11 @@ redirect_from:
 
 <!-- Hi there!!👋 I am Zhiyuan Xu, a sophomore student majoring in Computer Science at [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/). Currently, I am exploring my research interests in computer networks and artificial intelligence. I am a research assistant at [Computer Network Information Center, Chinese Academy of Sciences (CNIC, CAS)](http://www.cnic.cas.cn/), supervised by [Prof. Gaogang Xie](https://cnic.cas.cn/rcdw/yjy/202309/t20230919_6890324.html) and [Prof. Xinyi Zhang](https://ieeexplore.ieee.org/author/37088445633). I am also a research intern at [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](http://www.ict.ac.cn/), supervised by [Prof. Shuang Yang](https://vipl.ict.ac.cn/people/syang/). -->
 
-Hi there!!👋 I'm Zhiyuan Xu, a junior student majoring in Computer Science at [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/). My research interests lie in computer vision and computer networks, where I'm actively exploring and delving deeper. Currently, I am a research intern at [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/Research1/DISCOVER_Laboratory.htm), supervised by [Prof. Hao Zhao](https://sites.google.com/view/fromandto).
+Hi there!!👋 I'm Zhiyuan Xu, a junior student majoring in Computer Science at [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/). My research interests primarily lie in computer vision-related area, where I'm actively exploring and delving deeper. Currently, I am a research intern at [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/Research1/DISCOVER_Laboratory.htm), supervised by [Prof. Hao Zhao](https://sites.google.com/view/fromandto). Before that, I contributed as a research intern at [Visual Information Processing and Learning group (VIPL), ICT, CAS](https://vipl.ict.ac.cn/), where I was fortunate to learn and explore under the guidance of [Prof. Shuang Yang](https://vipl.ict.ac.cn/people/syang/).
 
-During my freshman year and sophomore year, I worked as a research assistant at [Computer Network Information Center, Chinese Academy of Sciences (CNIC, CAS)](http://www.cnic.cas.cn/), advised by [Prof. Gaogang Xie](https://cnic.cas.cn/rcdw/yjy/202309/t20230919_6890324.html) and [Prof. Xinyi Zhang](https://ieeexplore.ieee.org/author/37088445633). Additionally, I also contributed as a research intern at [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](http://www.ict.ac.cn/), where I was fortunate to work under the guidance of [Prof. Shuang Yang](https://vipl.ict.ac.cn/people/syang/).
+During my freshman year and sophomore year, I also explored the area of computer networks, by working as a research assistant at [Computer Network Information Center, Chinese Academy of Sciences (CNIC, CAS)](http://www.cnic.cas.cn/), advised by [Prof. Gaogang Xie](https://cnic.cas.cn/rcdw/yjy/202309/t20230919_6890324.html) and [Prof. Xinyi Zhang](https://ieeexplore.ieee.org/author/37088445633). 
 
-Before that, I developed a strong interest in competitive programming and computer science during my (junior) high school years. I have participated in various programming contests, such as National Olympiad in Informatics in Provinces (NOIP), and am an active participant in International Collegiate Programming Contest (ICPC) and China Collegiate Programming Contest (CCPC) currently.
+Prior to my research journey, I developed a strong interest in competitive programming and computer science during my (junior) high school years. I have participated in various programming contests, such as National Olympiad in Informatics in Provinces (NOIP), and am an active participant in International Collegiate Programming Contest (ICPC) and China Collegiate Programming Contest (CCPC) currently.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -37,6 +37,19 @@ Before that, I developed a strong interest in competitive programming and comput
 
 *\* indicates equal contribution*
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/2025wacv1.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font color='red'> (Oral) </font>**[Diffusion-based Visual Anagram as Multi-task Learning](https://openaccess.thecvf.com/content/WACV2025/html/Xu_Diffusion-Based_Visual_Anagram_as_Multi-Task_Learning_WACV_2025_paper.html)
+
+**Zhiyuan Xu\***, Yinhe Chen\*, Huan-ang Gao, Weiyan Zhao, Guiyu Zhang, Hao Zhao
+
+[**Paper**](https://arxiv.org/abs/2412.02693) \| [**Code**](https://github.com/Pixtella/Anagram-MTL)
+- This paper reformulates the visual anagram generation task as a multi-task learning problem and applies techniques inspired by the latter to the former.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNET 2024</div><img src='images/2024apnet0.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -46,22 +59,6 @@ Xinyi Zhang, **Zhiyuan Xu**, Huaiyi Zhao, Yanbiao Li, Gaogang Xie
 
 [**Paper**](https://conferences.sigcomm.org/events/apnet2024/papers/TARTrafficAdaptiveIPv6RoutingLookupScheme.pdf) \| [**Slides**](https://conferences.sigcomm.org/events/apnet2024/slides/Session5/XinyiZhang.pdf) 
 - This paper presents the first systematic approach to leveraging traffic characteristics for guiding the construction of IP lookup data structures.
-
-</div>
-</div>
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/2025wacv0.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Diffusion-based Visual Anagram as Multi-task Learning
-
-**Zhiyuan Xu\***, Yinhe Chen\*, Huan-ang Gao, Weiyan Zhao, Guiyu Zhang, Hao Zhao
-
-[**Paper**](https://arxiv.org/abs/2412.02693) \| [**Code**](https://github.com/Pixtella/Anagram-MTL)
-- This paper reformulates the visual anagram generation task as a multi-task learning problem and applies techniques inspired by the latter to the former.
 
 </div>
 </div>
@@ -84,6 +81,8 @@ Diffusion-based Visual Anagram as Multi-task Learning
 - *2022.09 - Present*, Bachelor of Computer Science and Technology
   - University of Chinese Academy of Sciences
   - GPA: 3.99/4.00, Rank: 1/79
+- *2025 Spring*, Concurrent Enrollment Student in Computer Science
+  - University of California, Berkeley
 
 # 💻 Experience
 - *2024.07 - Present*, **Research Intern**
@@ -100,3 +99,7 @@ Diffusion-based Visual Anagram as Multi-task Learning
   - *Introduction to Computer Science*
   - Instructor: [Prof. Zhiwei Xu](https://novel.ict.ac.cn/zxu/), [Prof. Jialin Zhang](http://www.ict.ac.cn/sourcedb/cn/jssrck/201209/t20120913_3643855.html)
   - Held weekly office hours, graded assignments, and assisted in designing course materials.
+- *Fall 2024*, **Teaching Assistant**
+  - *Junior Seminar*
+  - Instructor: [Prof. Yungang Bao](https://acs.ict.ac.cn/baoyg/)
+  - Held discussion sessions and served as peer mentor for college freshmen.
