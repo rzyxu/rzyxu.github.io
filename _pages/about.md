@@ -78,14 +78,96 @@ Xinyi Zhang, **Zhiyuan Xu**, Huaiyi Zhao, Yanbiao Li, Gaogang Xie
 - *2018.12*: 🥇First Prize (Senior Group) in the 24th National Olympiad in Informatics in Provinces (NOIP2018)
 
 # 📖 Educations
-- *2022.09 - Present*, Bachelor of Computer Science and Technology
+
+<div class='exp-box'>
+  <div class='exp-box-text' markdown="1">
+  - *2022.09 - Present*, Bachelor of Computer Science and Technology
+    - University of Chinese Academy of Sciences
+    - GPA: 3.99/4.00, Rank: 1/79
+  </div>
+  <div class='exp-box-image'>
+    <div><img src='images/ucas.png' alt="sym" width="80%"></div>
+  </div>
+</div>
+
+<div class='exp-box'>
+  <div class='exp-box-text' markdown="1">
+  - *2025 Spring*, Concurrent Enrollment Student in Computer Science
+    - University of California, Berkeley
+  </div>
+  <div class='exp-box-image'>
+    <div><img src='images/cal.png' alt="sym" width="80%"></div>
+  </div>
+</div>
+
+<!-- - *2022.09 - Present*, Bachelor of Computer Science and Technology
   - University of Chinese Academy of Sciences
   - GPA: 3.99/4.00, Rank: 1/79
 - *2025 Spring*, Concurrent Enrollment Student in Computer Science
-  - University of California, Berkeley
+  - University of California, Berkeley -->
 
 # 💻 Experience
-- *2024.07 - Present*, **Research Intern**
+
+<div class='exp-box'>
+  <div class='exp-box-text' markdown="1">
+  - *2024.07 - Present*, **Research Intern**
+    - Advisor: [Prof. Hao Zhao](https://sites.google.com/view/fromandto) \| [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/Research1/DISCOVER_Laboratory.htm)
+    - One paper accepted by WACV'25.
+  </div>
+  <div class='exp-box-image'>
+    <div><img src='images/tsinghua.png' alt="sym" width="80%"></div>
+  </div>
+</div>
+
+<div class='exp-box'>
+  <div class='exp-box-text' markdown="1">
+  - *2023.07 - 2024.08*, **Research Assistant**
+    - Advisor: [Prof. Gaogang Xie](https://cnic.cas.cn/rcdw/yjy/202309/t20230919_6890324.html) \| Computer Network Information Center, CAS
+    - Designed and implemented novel algorithms for traffic routing and forwarding.
+    - One paper accepted by APNet'24 (SIGCOMM Side Event).
+  </div>
+  <div class='exp-box-image'>
+    <div><img src='images/cnic.jpg' alt="sym" width="80%"></div>
+  </div>
+</div>
+
+<div class='exp-box'>
+  <div class='exp-box-text' markdown="1">
+  - *2023.10 - 2024.08*, **Research Intern**
+    - Advisor: [Prof. Shuang Yang](https://vipl.ict.ac.cn/people/syang/) \| [VIPL](https://vipl.ict.ac.cn/), Institute of Computing Technology, CAS
+    - Developed automated pipeline for large-scale dataset collecting for audio-visual speech recognition.
+  </div>
+  <div class='exp-box-image'>
+    <div><img src='images/ict.png' alt="sym" width="80%"></div>
+  </div>
+</div>
+
+<div class='exp-box'>
+  <div class='exp-box-text' markdown="1">
+  - *Spring 2024*, **Teaching Assistant**
+    - *Introduction to Computer Science*
+    - Instructor: [Prof. Zhiwei Xu](https://novel.ict.ac.cn/zxu/), [Prof. Jialin Zhang](http://www.ict.ac.cn/sourcedb/cn/jssrck/201209/t20120913_3643855.html)
+    - Held weekly office hours, graded assignments, and assisted in designing course materials.
+  </div>
+  <div class='exp-box-image'>
+    <div><img src='images/ucas.png' alt="sym" width="80%"></div>
+  </div>
+</div>
+
+<div class='exp-box'>
+  <div class='exp-box-text' markdown="1">
+  - *Fall 2024*, **Teaching Assistant**
+    - *Junior Seminar*
+    - Instructor: [Prof. Yungang Bao](https://acs.ict.ac.cn/baoyg/)
+    - Held discussion sessions and served as peer mentor for college freshmen.
+  </div>
+  <div class='exp-box-image'>
+    <div><img src='images/ucas.png' alt="sym" width="80%"></div>
+  </div>
+</div>
+
+
+<!-- - *2024.07 - Present*, **Research Intern**
   - Advisor: [Prof. Hao Zhao](https://sites.google.com/view/fromandto) \| [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/Research1/DISCOVER_Laboratory.htm)
   - One paper accepted by WACV'25.
 - *2023.07 - 2024.08*, **Research Assistant**
@@ -102,4 +184,4 @@ Xinyi Zhang, **Zhiyuan Xu**, Huaiyi Zhao, Yanbiao Li, Gaogang Xie
 - *Fall 2024*, **Teaching Assistant**
   - *Junior Seminar*
   - Instructor: [Prof. Yungang Bao](https://acs.ict.ac.cn/baoyg/)
-  - Held discussion sessions and served as peer mentor for college freshmen.
+  - Held discussion sessions and served as peer mentor for college freshmen. -->
