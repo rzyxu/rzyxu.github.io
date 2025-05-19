@@ -19,7 +19,7 @@ redirect_from:
 
 <!-- Hi there!!👋 I am Zhiyuan Xu, a sophomore student majoring in Computer Science at [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/). Currently, I am exploring my research interests in computer networks and artificial intelligence. I am a research assistant at [Computer Network Information Center, Chinese Academy of Sciences (CNIC, CAS)](http://www.cnic.cas.cn/), supervised by [Prof. Gaogang Xie](https://cnic.cas.cn/rcdw/yjy/202309/t20230919_6890324.html) and [Prof. Xinyi Zhang](https://ieeexplore.ieee.org/author/37088445633). I am also a research intern at [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](http://www.ict.ac.cn/), supervised by [Prof. Shuang Yang](https://vipl.ict.ac.cn/people/syang/). -->
 
-Hi there!!👋 I'm Zhiyuan Xu, a junior student majoring in Computer Science at [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/). My research interests primarily lie in computer vision-related area, where I'm actively exploring and delving deeper. Currently, I am a research intern at [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/Research1/DISCOVER_Laboratory.htm), supervised by [Prof. Hao Zhao](https://sites.google.com/view/fromandto). Before that, I contributed as a research intern at [Visual Information Processing and Learning group (VIPL), ICT, CAS](https://vipl.ict.ac.cn/), where I was fortunate to learn and explore under the guidance of [Prof. Shuang Yang](https://vipl.ict.ac.cn/people/syang/).
+Hi there!!👋 I'm Zhiyuan Xu, a junior student majoring in Computer Science at [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/). My research interests primarily lie in computer vision-related area, where I'm actively exploring and delving deeper. Currently, I am a research intern at [Institute for AI Industry Research (AIR), Tsinghua University](https://www.discover-lab.com/), supervised by [Prof. Hao Zhao](https://sites.google.com/view/fromandto). Before that, I contributed as a research intern at [Visual Information Processing and Learning group (VIPL), ICT, CAS](https://vipl.ict.ac.cn/), where I was fortunate to learn and explore under the guidance of [Prof. Shuang Yang](https://vipl.ict.ac.cn/people/syang/).
 
 During my freshman year and sophomore year, I also explored the area of computer networks, by working as a research assistant at [Computer Network Information Center, Chinese Academy of Sciences (CNIC, CAS)](http://www.cnic.cas.cn/), advised by [Prof. Gaogang Xie](https://cnic.cas.cn/rcdw/yjy/202309/t20230919_6890324.html) and [Prof. Xinyi Zhang](https://ieeexplore.ieee.org/author/37088445633). 
 
@@ -29,18 +29,34 @@ Prior to my research journey, I developed a strong interest in competitive progr
 
 
 # 🔥 News
+- *2024.05*: &nbsp;📄📄 *Challenger* is online!
+- *2025.04*: &nbsp;🎉🎉 One paper got accepted to SIGCOMM'25 Main Conference (coming soon)
 - *2024.10*: &nbsp;🧑‍🎓🧑‍🎓 I'm awarded Elite Collegiate Award by China Computer Fedration
 - *2024.10*: &nbsp;🎉🎉 One paper got accepted to WACV'25
 - *2024.04*: &nbsp;🎉🎉 One paper got accepted to APNET'24 (SIGCOMM Side Event)
 
-# 📝 Publications 
+# 📝 Publications & Preprints
 
 *\* indicates equal contribution*
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/2025arxiv0.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Challenger: Affordable Adversarial Driving Video Generation
+
+**Zhiyuan Xu\***, Bohan Li\*, Huan-ang Gao, Mingju Gao, Yong Chen, Ming Liu, Chenxu Yan, Hang Zhao, Shuo Feng, Hao Zhao†
+
+[**Paper**]() \| [**Code**](https://github.com/Pixtella/Challenger) | [**Project Page**](https://pixtella.github.io/Challenger/) | [**Dataset**](https://huggingface.co/datasets/Pixtella/Adv-nuSc)
+- This work generates adversarial driving scenarios that challenge end-to-end autonomous driving models. 
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/2025wacv1.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**<font color='red'> (Oral) </font>**[Diffusion-based Visual Anagram as Multi-task Learning](https://openaccess.thecvf.com/content/WACV2025/html/Xu_Diffusion-Based_Visual_Anagram_as_Multi-Task_Learning_WACV_2025_paper.html)
+**<font color='red'> (Oral) </font>**[Diffusion-based Visual Anagram as Multi-task Learning](https://ieeexplore.ieee.org/abstract/document/10943496)
 
 **Zhiyuan Xu\***, Yinhe Chen\*, Huan-ang Gao, Weiyan Zhao, Guiyu Zhang, Hao Zhao
 
