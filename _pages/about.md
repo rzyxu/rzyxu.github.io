@@ -30,12 +30,12 @@ Prior to my research journey, I developed a strong interest in competitive progr
 
 # 🔥 News
 - *2025.05*: &nbsp;📄📄 *Challenger* is online!
-- *2025.04*: &nbsp;🎉🎉 One paper got accepted to **SIGCOMM'25** Main Conference (coming soon)
+- *2025.04*: &nbsp;🎉🎉 One paper got accepted to **SIGCOMM'25** Main Conference
 - *2024.10*: &nbsp;🧑‍🎓🧑‍🎓 I'm awarded Elite Collegiate Award by China Computer Fedration
 - *2024.10*: &nbsp;🎉🎉 One paper got accepted to **WACV'25**
 - *2024.04*: &nbsp;🎉🎉 One paper got accepted to **APNET'24** (SIGCOMM Side Event)
 
-# 📝 Publications & Preprints
+# 📝 Publications and Preprints
 
 *\* indicates equal contribution*
 
@@ -46,11 +46,30 @@ Challenger: Affordable Adversarial Driving Video Generation
 
 **Zhiyuan Xu\***, Bohan Li\*, Huan-ang Gao, Mingju Gao, Yong Chen, Ming Liu, Chenxu Yan, Hang Zhao, Shuo Feng, Hao Zhao†
 
-[**Paper**]() \| [**Code**](https://github.com/Pixtella/Challenger) | [**Project Page**](https://pixtella.github.io/Challenger/) | [**Dataset**](https://huggingface.co/datasets/Pixtella/Adv-nuSc)
+[**Paper**](https://arxiv.org/abs/2505.15880) \| [**Code**](https://github.com/Pixtella/Challenger) | [**Project Page**](https://pixtella.github.io/Challenger/) | [**Dataset**](https://huggingface.co/datasets/Pixtella/Adv-nuSc)
 - This work generates adversarial driving scenarios that challenge end-to-end autonomous driving models. 
 
 </div>
 </div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGCOMM 2025</div><img src='images/2025sigcomm0.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+NPC: Rethinking Dataplane through Network-aware Packet Classification
+
+Xinyi Zhang, Qianrui Qiu, **Zhiyuan Xu**, Peng He, Xilai Liu, Kavé Salamatian, Changhua Pei, Gaogang Xie†
+
+[**Paper** (comming soon)]()
+- This work proposes a novel paradigm for dataplane design, leveraging network characteristics to improve the efficiency of packet classification. 
+
+</div>
+</div>
+
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/2025wacv1.gif' alt="sym" width="100%"></div></div>
@@ -181,6 +200,12 @@ Xinyi Zhang, **Zhiyuan Xu**, Huaiyi Zhao, Yanbiao Li, Gaogang Xie
     <div><img src='images/ucas.png' alt="sym" width="80%"></div>
   </div>
 </div>
+
+
+
+# 🎓 Professional Services
+
+- Conferences reviewer: CoRL 2025, NeurIPS 2025
 
 
 <!-- - *2024.07 - Present*, **Research Intern**

@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-publications-and-preprints"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -17,3 +17,6 @@ main:
 
   - title: "Experience"
     url: "/#-experience"
+
+  - title: "Services"
+    url: "/#-professional-services"
