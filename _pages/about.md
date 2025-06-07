@@ -206,7 +206,7 @@ Xinyi Zhang, **Zhiyuan Xu**, Huaiyi Zhao, Yanbiao Li, Gaogang Xie
 
 # 🎓 Professional Services
 
-- Conferences reviewer: CoRL 2025, NeurIPS 2025
+- Conference reviewer: CoRL 2025, NeurIPS 2025
 
 
 <!-- - *2024.07 - Present*, **Research Intern**
