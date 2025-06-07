@@ -129,6 +129,7 @@ Xinyi Zhang, **Zhiyuan Xu**, Huaiyi Zhao, Yanbiao Li, Gaogang Xie
   <div class='exp-box-text' markdown="1">
   - *2025 Spring*, Concurrent Enrollment Student in Computer Science
     - University of California, Berkeley
+    - GPA: 4.00/4.00
   </div>
   <div class='exp-box-image'>
     <div><img src='images/cal.png' alt="sym" width="80%"></div>
