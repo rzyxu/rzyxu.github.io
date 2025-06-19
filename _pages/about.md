@@ -46,7 +46,7 @@ Challenger: Affordable Adversarial Driving Video Generation
 
 **Zhiyuan Xu\***, Bohan Li\*, Huan-ang Gao, Mingju Gao, Yong Chen, Ming Liu, Chenxu Yan, Hang Zhao, Shuo Feng, Hao Zhao†
 
-[**Paper**](https://arxiv.org/abs/2505.15880) \| [**Code**](https://github.com/Pixtella/Challenger) | [**Project Page**](https://pixtella.github.io/Challenger/) | [**Dataset**](https://huggingface.co/datasets/Pixtella/Adv-nuSc)
+[**Paper**](https://arxiv.org/abs/2505.15880) \| [**Code**](https://github.com/Pixtella/Challenger) | [**Project Page**](https://pixtella.github.io/Challenger/) | [**Dataset**](https://huggingface.co/datasets/Pixtella/Adv-nuSc) | [**AIDriver**](https://mp.weixin.qq.com/s/HZ8q8mcJvaWZ4lZWIR75KQ)
 - This work generates adversarial driving scenarios that challenge end-to-end autonomous driving models. 
 
 </div>
