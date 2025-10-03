@@ -19,7 +19,7 @@ redirect_from:
 
 <!-- Hi there!!👋 I am Zhiyuan Xu, a sophomore student majoring in Computer Science at [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/). Currently, I am exploring my research interests in computer networks and artificial intelligence. I am a research assistant at [Computer Network Information Center, Chinese Academy of Sciences (CNIC, CAS)](http://www.cnic.cas.cn/), supervised by [Prof. Gaogang Xie](https://cnic.cas.cn/rcdw/yjy/202309/t20230919_6890324.html) and [Prof. Xinyi Zhang](https://ieeexplore.ieee.org/author/37088445633). I am also a research intern at [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](http://www.ict.ac.cn/), supervised by [Prof. Shuang Yang](https://vipl.ict.ac.cn/people/syang/). -->
 
-Hi there!!👋 I'm Zhiyuan Xu, a junior student majoring in Computer Science at [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/). My research interests primarily lie in computer vision-related area, where I'm actively exploring and delving deeper. Currently, I am a research intern at [Institute for AI Industry Research (AIR), Tsinghua University](https://www.discover-lab.com/), supervised by [Prof. Hao Zhao](https://sites.google.com/view/fromandto). Before that, I contributed as a research intern at [Visual Information Processing and Learning group (VIPL), ICT, CAS](https://vipl.ict.ac.cn/), where I was fortunate to learn and explore under the guidance of [Prof. Shuang Yang](https://vipl.ict.ac.cn/people/syang/).
+Hi there!!👋 I'm Zhiyuan Xu, a senior undergraduate student majoring in Computer Science at [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/). My research interests primarily lie in computer vision-related area, where I'm actively exploring and delving deeper. Currently, I am a research intern at [Institute for AI Industry Research (AIR), Tsinghua University](https://www.discover-lab.com/), supervised by [Prof. Hao Zhao](https://sites.google.com/view/fromandto). Before that, I contributed as a research intern at [Visual Information Processing and Learning group (VIPL), ICT, CAS](https://vipl.ict.ac.cn/), where I was fortunate to learn and explore under the guidance of [Prof. Shuang Yang](https://vipl.ict.ac.cn/people/syang/).
 
 During my freshman year and sophomore year, I also explored the area of computer networks, by working as a research assistant at [Computer Network Information Center, Chinese Academy of Sciences (CNIC, CAS)](http://www.cnic.cas.cn/), advised by [Prof. Gaogang Xie](https://cnic.cas.cn/rcdw/yjy/202309/t20230919_6890324.html) and [Prof. Xinyi Zhang](https://ieeexplore.ieee.org/author/37088445633). 
 
@@ -58,11 +58,11 @@ Challenger: Affordable Adversarial Driving Video Generation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGCOMM 2025</div><img src='images/2025sigcomm0.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-NPC: Rethinking Dataplane through Network-aware Packet Classification
+[NPC: Rethinking Dataplane through Network-aware Packet Classification](https://dl.acm.org/doi/10.1145/3718958.3750511)
 
 Xinyi Zhang, Qianrui Qiu, **Zhiyuan Xu**, Peng He, Xilai Liu, Kavé Salamatian, Changhua Pei, Gaogang Xie†
 
-[**Paper** (coming soon)]()
+[**Paper**](https://dl.acm.org/doi/10.1145/3718958.3750511)
 - This work proposes a novel paradigm for dataplane design, leveraging network characteristics to improve the efficiency of packet classification. 
 
 </div>
