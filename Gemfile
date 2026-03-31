@@ -9,7 +9,9 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "github-pages", group: :jekyll_plugins
+# Pin to the original GitHub Pages stack used by this template so the site
+# remains installable on the current local Ruby 2.6 environment.
+gem "github-pages", "~> 215", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.

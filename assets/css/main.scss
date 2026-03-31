@@ -129,6 +129,32 @@
             order: 2;
         }
     }
+
+    &.exp-box-seed {
+        .exp-box-image {
+            justify-content: center;
+
+            img {
+                width: auto;
+                max-width: 100%;
+                max-height: 72px;
+                object-fit: contain;
+            }
+        }
+
+        @include breakpoint($medium) {
+            .exp-box-text {
+                min-width: 78%;
+                max-width: 78%;
+            }
+
+            .exp-box-image {
+                justify-content: right;
+                min-width: 22%;
+                max-width: 22%;
+            }
+        }
+    }
 }
 
 

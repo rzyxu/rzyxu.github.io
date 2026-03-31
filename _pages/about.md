@@ -17,15 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<!-- Hi there!!👋 I am Zhiyuan Xu, a sophomore student majoring in Computer Science at [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/). Currently, I am exploring my research interests in computer networks and artificial intelligence. I am a research assistant at [Computer Network Information Center, Chinese Academy of Sciences (CNIC, CAS)](http://www.cnic.cas.cn/), supervised by [Prof. Gaogang Xie](https://cnic.cas.cn/rcdw/yjy/202309/t20230919_6890324.html) and [Prof. Xinyi Zhang](https://ieeexplore.ieee.org/author/37088445633). I am also a research intern at [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](http://www.ict.ac.cn/), supervised by [Prof. Shuang Yang](https://vipl.ict.ac.cn/people/syang/). -->
 
-Hi there!!👋 I'm Zhiyuan Xu, a senior undergraduate student majoring in Computer Science at [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/). My research interests primarily lie in computer vision-related area, where I'm actively exploring and delving deeper. Currently, I am a research intern at [Institute for AI Industry Research (AIR), Tsinghua University](https://www.discover-lab.com/), supervised by [Prof. Hao Zhao](https://sites.google.com/view/fromandto). Before that, I contributed as a research intern at [Visual Information Processing and Learning group (VIPL), ICT, CAS](https://vipl.ict.ac.cn/), where I was fortunate to learn and explore under the guidance of [Prof. Shuang Yang](https://vipl.ict.ac.cn/people/syang/).
+Hi there!!👋 I'm Zhiyuan Xu, a senior undergraduate student majoring in Computer Science at [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/) and will start my PhD studies in the fall of 2026.
 
-During my freshman year and sophomore year, I also explored the area of computer networks, by working as a research assistant at [Computer Network Information Center, Chinese Academy of Sciences (CNIC, CAS)](http://www.cnic.cas.cn/), advised by [Prof. Gaogang Xie](https://cnic.cas.cn/rcdw/yjy/202309/t20230919_6890324.html) and [Prof. Xinyi Zhang](https://ieeexplore.ieee.org/author/37088445633). 
+My research interests primarily lie in computer vision-related area, where I'm actively exploring and delving deeper. Currently, I am an intern at [ByteDance Seed](https://seed.bytedance.com/en/direction/vision) working on video generation. Before that, I had wondeful research experiences at HKU, UC Berkeley, Tsinghua and CAS.
+
+During my freshman year and sophomore year, I also explored the area of computer networks, by working as a research assistant at [Computer Network Information Center, Chinese Academy of Sciences (CNIC, CAS)](http://www.cnic.cas.cn/).
 
 Prior to my research journey, I developed a strong interest in competitive programming and computer science during my (junior) high school years. I have participated in various programming contests, such as National Olympiad in Informatics in Provinces (NOIP), and am an active participant in International Collegiate Programming Contest (ICPC) and China Collegiate Programming Contest (CCPC) currently.
-
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
@@ -39,14 +38,14 @@ Prior to my research journey, I developed a strong interest in competitive progr
 
 *\* indicates equal contribution*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/2025arxiv0.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRLW 2025, IASEAI 2026</div><img src='images/2025arxiv0.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Challenger: Affordable Adversarial Driving Video Generation
+**<font color='red'> (Oral) </font>**Challenger: Affordable Adversarial Driving Video Generation
 
 **Zhiyuan Xu\***, Bohan Li\*, Huan-ang Gao, Mingju Gao, Yong Chen, Ming Liu, Chenxu Yan, Hang Zhao, Shuo Feng, Hao Zhao†
 
-[**Paper**](https://arxiv.org/abs/2505.15880) \| [**Code**](https://github.com/Pixtella/Challenger) | [**Project Page**](https://pixtella.github.io/Challenger/) | [**Dataset**](https://huggingface.co/datasets/Pixtella/Adv-nuSc) | [**AIDriver**](https://mp.weixin.qq.com/s/HZ8q8mcJvaWZ4lZWIR75KQ)
+[**Paper**](https://openreview.net/forum?id=qPptjDzDdG) \| [**Code**](https://github.com/Pixtella/Challenger) | [**Project Page**](https://pixtella.github.io/Challenger/) | [**Dataset**](https://huggingface.co/datasets/Pixtella/Adv-nuSc) | [**AIDriver**](https://mp.weixin.qq.com/s/HZ8q8mcJvaWZ4lZWIR75KQ)
 - This work generates adversarial driving scenarios that challenge end-to-end autonomous driving models. 
 
 </div>
@@ -101,24 +100,25 @@ Xinyi Zhang, **Zhiyuan Xu**, Huaiyi Zhao, Yanbiao Li, Gaogang Xie
 
 # 🎖 Honors and Awards
 
+- *2025.12*: 🧑‍🎓National Scholarship (Top 1%)
+- *2025.10*: 🧑‍🎓First Class Academic Scholarship of UCAS (Top 5%)
+- *2024.12*: 🥈Silver Medal in the 2024 ICPC EC Finals
 - *2024.10*: 🏆CCF Elite Collegiate Award
 - *2024.12*: 🧑‍🎓National Scholarship (Top 1%)
 - *2024.10*: 🧑‍🎓First Class Academic Scholarship of UCAS (Top 5%)
 - *2023.12*: 🧑‍🎓National Scholarship (Top 1%)
 - *2023.10*: 🧑‍🎓First Class Academic Scholarship of UCAS (Top 5%)
 - *2022.11*: 🥇Gold Medal in the 2022 CCPC, Guangzhou Site
-- *2024.03*: 🥈Silver Medal in the 2023 CCPC Finals
 - *2023.11*: 🥇First Prize of Beijing in the 2023 CUMCM
-- *2023.12*: 🥈Silver Medal in the 2023 ICPC Asia Jinan Regional Contest
 - *2018.12*: 🥇First Prize (Senior Group) in the 24th National Olympiad in Informatics in Provinces (NOIP2018)
 
-# 📖 Educations
+# 📖 Education
 
 <div class='exp-box'>
   <div class='exp-box-text' markdown="1">
   - *2022.09 - Present*, Bachelor of Computer Science and Technology
     - University of Chinese Academy of Sciences
-    - GPA: 3.99/4.00, Rank: 1/79
+    - GPA: 3.99/4.00, Rank: 1/87
   </div>
   <div class='exp-box-image'>
     <div><img src='images/ucas.png' alt="sym" width="80%"></div>
@@ -136,19 +136,47 @@ Xinyi Zhang, **Zhiyuan Xu**, Huaiyi Zhao, Yanbiao Li, Gaogang Xie
   </div>
 </div>
 
-<!-- - *2022.09 - Present*, Bachelor of Computer Science and Technology
-  - University of Chinese Academy of Sciences
-  - GPA: 3.99/4.00, Rank: 1/79
-- *2025 Spring*, Concurrent Enrollment Student in Computer Science
-  - University of California, Berkeley -->
-
 # 💻 Experience
+
+<div class='exp-box exp-box-seed'>
+  <div class='exp-box-text' markdown="1">
+  - *2025.11 - Present*, **Intern**
+    - Seedance \| [ByteDance Seed](https://seed.bytedance.com/en/direction/vision)
+    - Research on video generation.
+  </div>
+  <div class='exp-box-image'>
+    <div><img src='images/logos/seed.png' alt="ByteDance Seed" width="80%"></div>
+  </div>
+</div>
+
 
 <div class='exp-box'>
   <div class='exp-box-text' markdown="1">
-  - *2024.07 - Present*, **Research Intern**
+  - *Summer 2025*, **Research Intern**
+    - [Summer Research Programme](https://gradsch.hku.hk/news_and_events/news_and_future_events/summer-research-programme-2025) \| [The University of Hong Kong (HKU)](https://www.hku.hk/)
+    - Research on video generation.
+  </div>
+  <div class='exp-box-image'>
+    <div><img src='images/logos/hku-shield-only.svg' alt="HKU shield" width="80%"></div>
+  </div>
+</div>
+
+<div class='exp-box'>
+  <div class='exp-box-text' markdown="1">
+  - *Spring 2025*, **Research Intern**
+    - [MSC Lab](https://msc.berkeley.edu/) \| [UC Berkeley](https://www.berkeley.edu/)
+    - Research on 3D computer vision.
+  </div>
+  <div class='exp-box-image'>
+    <div><img src='images/cal.png' alt="sym" width="80%"></div>
+  </div>
+</div>
+
+<div class='exp-box'>
+  <div class='exp-box-text' markdown="1">
+  - *2024.07 - 2025.06*, **Research Intern**
     - Advisor: [Prof. Hao Zhao](https://sites.google.com/view/fromandto) \| [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/Research1/DISCOVER_Laboratory.htm)
-    - One paper accepted by WACV'25.
+    - Research on image generation and autonomous driving.
   </div>
   <div class='exp-box-image'>
     <div><img src='images/tsinghua.png' alt="sym" width="80%"></div>
@@ -157,21 +185,9 @@ Xinyi Zhang, **Zhiyuan Xu**, Huaiyi Zhao, Yanbiao Li, Gaogang Xie
 
 <div class='exp-box'>
   <div class='exp-box-text' markdown="1">
-  - *2023.07 - 2024.08*, **Research Assistant**
-    - Advisor: [Prof. Gaogang Xie](https://cnic.cas.cn/rcdw/yjy/202309/t20230919_6890324.html) \| Computer Network Information Center, CAS
-    - Designed and implemented novel algorithms for traffic routing and forwarding.
-    - One paper accepted by APNet'24 (SIGCOMM Side Event).
-  </div>
-  <div class='exp-box-image'>
-    <div><img src='images/cnic.jpg' alt="sym" width="80%"></div>
-  </div>
-</div>
-
-<div class='exp-box'>
-  <div class='exp-box-text' markdown="1">
   - *2023.10 - 2024.08*, **Research Intern**
     - Advisor: [Prof. Shuang Yang](https://vipl.ict.ac.cn/people/syang/) \| [VIPL](https://vipl.ict.ac.cn/), Institute of Computing Technology, CAS
-    - Developed automated pipeline for large-scale dataset collecting for audio-visual speech recognition.
+    - Research on visual speech recognition.
   </div>
   <div class='exp-box-image'>
     <div><img src='images/ict.png' alt="sym" width="80%"></div>
@@ -180,33 +196,19 @@ Xinyi Zhang, **Zhiyuan Xu**, Huaiyi Zhao, Yanbiao Li, Gaogang Xie
 
 <div class='exp-box'>
   <div class='exp-box-text' markdown="1">
-  - *Spring 2024*, **Teaching Assistant**
-    - *Introduction to Computer Science*
-    - Instructor: [Prof. Zhiwei Xu](https://novel.ict.ac.cn/zxu/), [Prof. Jialin Zhang](http://www.ict.ac.cn/sourcedb/cn/jssrck/201209/t20120913_3643855.html)
-    - Held weekly office hours, graded assignments, and assisted in designing course materials.
+  - *2023.03 - 2024.08*, **Research Intern**
+    - Advisor: [Prof. Gaogang Xie](https://cnic.cas.cn/rcdw/yjy/202309/t20230919_6890324.html) \| Computer Network Information Center, CAS
+    - Research on traffic routing and forwarding.
   </div>
   <div class='exp-box-image'>
-    <div><img src='images/ucas.png' alt="sym" width="80%"></div>
+    <div><img src='images/cnic.jpg' alt="sym" width="80%"></div>
   </div>
 </div>
 
-<div class='exp-box'>
-  <div class='exp-box-text' markdown="1">
-  - *Fall 2024*, **Teaching Assistant**
-    - *Junior Seminar*
-    - Instructor: [Prof. Yungang Bao](https://acs.ict.ac.cn/baoyg/)
-    - Held discussion sessions and served as peer mentor for college freshmen.
-  </div>
-  <div class='exp-box-image'>
-    <div><img src='images/ucas.png' alt="sym" width="80%"></div>
-  </div>
-</div>
-
-
-
-# 🎓 Professional Services
+# 🎓 Professional Service
 
 - Conference reviewer: CoRL 2025, NeurIPS 2025
+- Teaching Assistant, UCAS: Introduction to Computer Science (Spring 2024); Junior Seminar (Fall 2024)
 
 
 <!-- - *2024.07 - Present*, **Research Intern**
