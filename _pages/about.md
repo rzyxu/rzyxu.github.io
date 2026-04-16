@@ -30,7 +30,7 @@ Prior to my research journey, I developed a strong interest in competitive progr
 # 🔥 News
 - *2025.05*: &nbsp;📄📄 *Challenger* is online!
 - *2025.04*: &nbsp;🎉🎉 One paper got accepted to **SIGCOMM'25** Main Conference
-- *2024.10*: &nbsp;🧑‍🎓🧑‍🎓 I'm awarded Elite Collegiate Award by China Computer Fedration
+- *2024.10*: &nbsp;🧑‍🎓🧑‍🎓 I'm awarded Elite Collegiate Award by China Computer Federation
 - *2024.10*: &nbsp;🎉🎉 One paper got accepted to **WACV'25**
 - *2024.04*: &nbsp;🎉🎉 One paper got accepted to **APNET'24** (SIGCOMM Side Event)
 
