@@ -38,6 +38,21 @@ Prior to my research journey, I developed a strong interest in competitive progr
 
 *\* indicates equal contribution*
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TON 2026</div><img src='images/2026ton0.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Traffic-Aware Design for Multi-dimensional Lookup and Forwarding: From IP Routing to Packet Classification](https://doi.org/10.1109/TON.2026.3695550)
+
+in *IEEE Transactions on Networking*
+
+Xinyi Zhang, Qianrui Qiu, **Zhiyuan Xu**, Peng He, Guangxing Zhang, Luyiyun Li, Jianer Zhou, Kavé Salamatian, Gaogang Xie†
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/11533550/)
+- This work presents a systematic approach to leveraging traffic characteristics for guiding the design of multi-dimensional lookup and forwarding data structures.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRLW 2025, IASEAI 2026</div><img src='images/2025arxiv0.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
