@@ -48,8 +48,7 @@ in *IEEE Transactions on Networking*
 Xinyi Zhang, Qianrui Qiu, **Zhiyuan Xu**, Peng He, Guangxing Zhang, Luyiyun Li, Jianer Zhou, Kavé Salamatian, Gaogang Xie†
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/11533550/)
-- This work presents a systematic approach to leveraging traffic characteristics for guiding the design of multi-dimensional lookup and forwarding data structures.
-
+- This work presents a traffic-aware dataplane framework that boosts multi-dimensional lookup and forwarding performance.
 </div>
 </div>
 
