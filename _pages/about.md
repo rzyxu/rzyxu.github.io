@@ -18,16 +18,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi there!!👋 I'm Zhiyuan Xu, a senior undergraduate student majoring in Computer Science at [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/) and will start my PhD studies in the fall of 2026.
+Hi there!!👋 I'm Zhiyuan Xu, a PhD student in the [School of Computing and Data Science (CDS)](https://www.cds.hku.hk/) at [University of Hong Kong (HKU)](https://www.hku.hk/). I am a member of the [Super Artificial Intelligence Lab (SAIL)](https://sail.ai.hku.hk/), advised by [Prof. Hengshuang Zhao](https://i.cs.hku.hk/~hszhao/). I graduated from the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/) in June 2026 with a bachelor's degree in Computer Science and Technology.
 
 My research interests primarily lie in computer vision-related area, where I'm actively exploring and delving deeper. Currently, I am an intern at [ByteDance Seed](https://seed.bytedance.com/en/direction/vision) working on video generation. Before that, I had wondeful research experiences at HKU, UC Berkeley, Tsinghua and CAS.
 
 During my freshman year and sophomore year, I also explored the area of computer networks, by working as a research assistant at [Computer Network Information Center, Chinese Academy of Sciences (CNIC, CAS)](http://www.cnic.cas.cn/).
 
-Prior to my research journey, I developed a strong interest in competitive programming and computer science during my (junior) high school years. I have participated in various programming contests, such as National Olympiad in Informatics in Provinces (NOIP), and am an active participant in International Collegiate Programming Contest (ICPC) and China Collegiate Programming Contest (CCPC) currently.
+Prior to my research journey, I developed a strong interest in competitive programming and computer science during my (junior) high school years. I have participated in various programming contests, such as National Olympiad in Informatics in Provinces (NOIP), International Collegiate Programming Contest (ICPC) and China Collegiate Programming Contest (CCPC).
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🧑‍🎓🧑‍🎓 I got my BEng degree from UCAS
 - *2025.05*: &nbsp;📄📄 *Challenger* is online!
 - *2025.04*: &nbsp;🎉🎉 One paper got accepted to **SIGCOMM'25** Main Conference
 - *2024.10*: &nbsp;🧑‍🎓🧑‍🎓 I'm awarded Elite Collegiate Award by China Computer Federation
@@ -36,7 +37,7 @@ Prior to my research journey, I developed a strong interest in competitive progr
 
 # 📝 Publications and Preprints
 
-*\* indicates equal contribution*
+*\* indicates equal contribution, see [Google Scholar](https://scholar.google.com/citations?user=oH8rT3AAAAAJ) for the full list.*
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TON 2026</div><img src='images/2026ton0.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -55,7 +56,7 @@ Xinyi Zhang, Qianrui Qiu, **Zhiyuan Xu**, Peng He, Guangxing Zhang, Luyiyun Li, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRLW 2025, IASEAI 2026</div><img src='images/2025arxiv0.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**<font color='red'> (Oral) </font>**Challenger: Affordable Adversarial Driving Video Generation
+**<font color='red'> (Oral) </font>**[Challenger: Affordable Adversarial Driving Video Generation](https://doi.org/10.1609/iaseai.v2i1.43066)
 
 **Zhiyuan Xu\***, Bohan Li\*, Huan-ang Gao, Mingju Gao, Yong Chen, Ming Liu, Chenxu Yan, Hang Zhao, Shuo Feng, Hao Zhao†
 
@@ -130,7 +131,18 @@ Xinyi Zhang, **Zhiyuan Xu**, Huaiyi Zhao, Yanbiao Li, Gaogang Xie
 
 <div class='exp-box'>
   <div class='exp-box-text' markdown="1">
-  - *2022.09 - Present*, Bachelor of Computer Science and Technology
+  - *2026.09 - Present*, PhD Student
+    - School of Computing and Data Science, University of Hong Kong
+    - Advisor: Prof. Hengshuang Zhao
+  </div>
+  <div class='exp-box-image'>
+    <div><img src='images/logos/hku-shield-only.svg' alt="HKU shield" width="80%"></div>
+  </div>
+</div>
+
+<div class='exp-box'>
+  <div class='exp-box-text' markdown="1">
+  - *2022.09 - 2026.06*, Bachelor of Computer Science and Technology
     - University of Chinese Academy of Sciences
     - GPA: 3.99/4.00, Rank: 1/87
   </div>
@@ -221,7 +233,7 @@ Xinyi Zhang, **Zhiyuan Xu**, Huaiyi Zhao, Yanbiao Li, Gaogang Xie
 
 # 🎓 Professional Service
 
-- Conference reviewer: CoRL 2025, NeurIPS 2025
+- Conference reviewer: CoRL 2025, NeurIPS 2025, CoRL 2026, NeurIPS 2026
 - Teaching Assistant, UCAS: Introduction to Computer Science (Spring 2024); Junior Seminar (Fall 2024)
 
 
